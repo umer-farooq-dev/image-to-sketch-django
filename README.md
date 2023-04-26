@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/oyesaifi/ImagetoSketch)
+
 
 This is a simple Image to Sketch convertor made using Django, Python3 & Opencv.
 
@@ -105,17 +105,3 @@ _Below is an example of how you can install and set up this app on Linux os._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/oyesaifi/ImagetoSketch.svg?style=for-the-badge
-[contributors-url]: https://github.com/oyesaifi/ImagetoSketch/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/oyesaifi/ImagetoSketch.svg?style=for-the-badge
-[forks-url]: https://github.com/oyesaifi/ImagetoSketch/network/members
-[stars-shield]: https://img.shields.io/github/stars/oyesaifi/ImagetoSketch.svg?style=for-the-badge
-[stars-url]: https://github.com/oyesaifi/ImagetoSketch/stargazers
-[issues-shield]: https://img.shields.io/github/issues/oyesaifi/ImagetoSketch.svg?style=for-the-badge
-[issues-url]: https://github.com/oyesaifi/ImagetoSketch/issues
-[product-screenshot]: media/images/ss.PNG
-[Python3.js]: https://img.shields.io/badge/python3-20232A?style=for-the-badge&logo=python&logoColor=61DAFB
-[Django.js]: https://img.shields.io/badge/django-35495E?style=for-the-badge&logo=django&logoColor=4FC08D
-[Opencv.js]: https://img.shields.io/badge/Opencv-35495E?style=for-the-badge&logo=opencv&logoColor=4FC08D
