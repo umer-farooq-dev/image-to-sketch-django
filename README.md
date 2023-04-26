@@ -102,12 +102,6 @@ _Below is an example of how you can install and set up this app on Linux os._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
-## Contact
-
-Aman Saifi - [@oye.saifi](https://instagram.com/oye.saifi) - oyeamansaifi@gmail.com <br>
-AsDigitalComrade - [@asdigitalcomrade](https://instagram.com/asdigitalcomrade) - asdigitalcomrade@gmail.com <br>
-Project Link: [https://github.com/oyesaifi/ImagetoSketch](https://github.com/oyesaifi/ImagetoSketch)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
